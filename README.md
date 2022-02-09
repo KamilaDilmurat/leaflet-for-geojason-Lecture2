@@ -1,1 +1,1 @@
-# leaflet fro geojson, review frm lecture2
+# leaflet for geojson, review frm lecture2
